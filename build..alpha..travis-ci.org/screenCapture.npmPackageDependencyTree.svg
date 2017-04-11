@@ -1,0 +1,46 @@
+<svg height="686" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="686" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ koa@2.2.0 </tspan>
+<tspan x="10" y="90">  ├─┬ accepts@1.3.3 </tspan>
+<tspan x="10" y="106">  │ └── negotiator@0.6.1 </tspan>
+<tspan x="10" y="122">  ├── content-disposition@0.5.2 </tspan>
+<tspan x="10" y="138">  ├── content-type@1.0.2 </tspan>
+<tspan x="10" y="154">  ├─┬ cookies@0.7.0 </tspan>
+<tspan x="10" y="170">  │ └── keygrip@1.0.1 </tspan>
+<tspan x="10" y="186">  ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="202">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="218">  ├── delegates@1.0.0 </tspan>
+<tspan x="10" y="234">  ├── depd@1.1.0 </tspan>
+<tspan x="10" y="250">  ├── destroy@1.0.4 </tspan>
+<tspan x="10" y="266">  ├── error-inject@1.0.0 </tspan>
+<tspan x="10" y="282">  ├── escape-html@1.0.3 </tspan>
+<tspan x="10" y="298">  ├── fresh@0.5.0 </tspan>
+<tspan x="10" y="314">  ├─┬ http-assert@1.2.0 </tspan>
+<tspan x="10" y="330">  │ ├── deep-equal@1.0.1 </tspan>
+<tspan x="10" y="346">  │ └─┬ http-errors@1.4.0 </tspan>
+<tspan x="10" y="362">  │   └── inherits@2.0.1 </tspan>
+<tspan x="10" y="378">  ├─┬ http-errors@1.6.1 </tspan>
+<tspan x="10" y="394">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="410">  │ └── setprototypeof@1.0.3 </tspan>
+<tspan x="10" y="426">  ├── is-generator-function@1.0.6 </tspan>
+<tspan x="10" y="442">  ├─┬ koa-compose@3.2.1 </tspan>
+<tspan x="10" y="458">  │ └── any-promise@1.3.0 </tspan>
+<tspan x="10" y="474">  ├─┬ koa-convert@1.2.0 </tspan>
+<tspan x="10" y="490">  │ └── co@4.6.0 </tspan>
+<tspan x="10" y="506">  ├── koa-is-json@1.0.0 </tspan>
+<tspan x="10" y="522">  ├─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="538">  │ └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="554">  ├─┬ on-finished@2.3.0 </tspan>
+<tspan x="10" y="570">  │ └── ee-first@1.1.1 </tspan>
+<tspan x="10" y="586">  ├── only@0.0.2 </tspan>
+<tspan x="10" y="602">  ├── parseurl@1.3.1 </tspan>
+<tspan x="10" y="618">  ├── statuses@1.3.1 </tspan>
+<tspan x="10" y="634">  ├─┬ type-is@1.6.15 </tspan>
+<tspan x="10" y="650">  │ └── media-typer@0.3.0 </tspan>
+<tspan x="10" y="666">  └── vary@1.1.1</tspan>
+</text>
+</svg>
